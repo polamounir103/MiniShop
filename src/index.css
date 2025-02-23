@@ -1,0 +1,8 @@
+@import "tailwindcss";
+* {
+    scroll-behavior: smooth;
+}
+.Toastify__toast-container--top-right{
+  top: 75px;
+    right: 2rem;
+}
